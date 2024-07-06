@@ -1,0 +1,22 @@
+*{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.input_s{
+    display: block;
+    margin-bottom: 10px;
+}
+.choice_s{
+    display: inline;
+}
+figure{
+    text-align: center;
+}
+.head_image{
+    width: 90%;
+    text-align: center;
+    max-width: 800px;
+}
+fieldset{
+    width: 600px; margin: auto; text-align: center;
+}
