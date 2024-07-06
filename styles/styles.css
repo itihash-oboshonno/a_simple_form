@@ -18,5 +18,7 @@ figure{
     max-width: 800px;
 }
 fieldset{
-    width: 600px; margin: auto; text-align: center;
+    width: 60%;
+    margin: auto;
+    text-align: center;
 }
